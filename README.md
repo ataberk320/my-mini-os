@@ -13,4 +13,4 @@ exceptions are: packages is not loading
 
 some screenshots:
 boot screen
-![Logo] (
+![Logo] (bandicam 2025-07-13 18-30-23
