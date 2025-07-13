@@ -13,4 +13,4 @@ exceptions are: packages is not loading
 
 some screenshots:
 boot screen
-![Logo] (bandicam 2025-07-13 18-30-23-434.jpg)
+https://github.com/ataberk320/my-mini-os/blob/main/bandicam%202025-07-13%2018-30-23-434.jpg
